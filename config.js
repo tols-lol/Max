@@ -2,10 +2,10 @@
 /*
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
+𝐀𝐮𝐭𝐡𝐨𝐫 : Nez 
+𝐖𝐚 : 082228124959
 𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
-𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
+𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : Oktober 2022
 
 ⫹❰⫺ 𝐵𝐼𝐺 𝑇𝐻𝐴𝑁𝐾𝑆 𝑇𝑂 ⫹❱⫺
 ⭝ 𝑨𝒍𝒍𝒂𝒉 𝒀𝒂𝒏𝒈 𝑴𝒂𝒉𝒂 𝑬𝒔𝒂
@@ -80,58 +80,58 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285380166282', 'Kahfi-XD', true],
-['6285380166282', 'Bot-KAHFI-XD', true]
+['6282228124959', 'Nez', true],
+['6282228124959', 'Masiqbal', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.nomorown1 = '6285380166282'
-global.nomorown2 = '6285380166282'
+global.nomorbot = '6283188140830'
+global.nomorown = '6283188140830'
+global.nomorown1 = '6282228124959'
+global.nomorown2 = '6282228124959'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 X 𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
-global.namebot = '​ 𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.author = ' NEZ'
+global.namebot = '​ NEZ'
+global.wm = '© NEZ'
 global.media = 'https://telegra.ph/file/164709f787e0305472579.jpg'
-global.wm = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
+global.wm = 'nez'
 global.watermark = wm
-global.wm2 = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 '
+global.wm2 = 'nez '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 𝐗 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿`
-global.stickpack = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 𝐗 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
-global.stickauth = `© 𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 MD`
+global.titlebot = `Nez`
+global.stickpack = 'Nez'
+global.stickauth = `© Nez`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
-global.nameown2 = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
+global.nameown1= 'Nez'
+global.nameown2 = 'Nez'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
-global.lynk = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.lynk = 'https://chat.whatsapp.com/'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/maxxy_ofc'
 global.sgh = 'https://github.com/Maxxy Botz' //github
-global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/0kiclzyt' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+global.snh = 'https://youtube.com/channel/Qb3HBrRw'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085380166282'
+global.pdana = '083188140830'
 global.povo = '-'
 global.pgopay = ''
 global.plinkaja = '-' //link aja
-global.ppulsa = '085380166282'
-global.ppulsa2 = '085295374964'
-global.psaweria = 'https://saweria.co/MaxxyBotz'
+global.ppulsa = '083188140830'
+global.ppulsa2 = '083188140830'
+global.psaweria = 'https://saweria.co'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
